@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=brumfields&show_icons=true" alt="brumfields" /> 
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=brumfields&layout=compact" alt="brumfields" />
- </p>
+<a href="https://github.com/brumfields">
+  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api?username=brumfields&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515">
+
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=brumfields&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
+</a>
